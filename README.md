@@ -1,5 +1,9 @@
 # contributor covenant code of conduct
 
+* [our pledge](#our-pledge)
+* [attribution](#attribution)
+
+
 ## our pledge
 
 in the interest of fostering an open and welcoming environment, we as
