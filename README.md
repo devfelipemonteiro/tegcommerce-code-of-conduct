@@ -1,8 +1,11 @@
 # contributor covenant code of conduct
 
 * [our pledge](#our-pledge)
+* [our standards](#our-standards)
+* [our responsibilities](#our-responsibilities)
+* [scope](#scope)
+* [enforcement](#enforcement)
 * [attribution](#attribution)
-
 
 ## our pledge
 
