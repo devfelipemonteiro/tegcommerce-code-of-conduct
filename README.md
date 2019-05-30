@@ -1,4 +1,4 @@
-# contributor covenant code of conduct
+# code of conduct
 
 * [our pledge](#our-pledge)
 * [our standards](#our-standards)
