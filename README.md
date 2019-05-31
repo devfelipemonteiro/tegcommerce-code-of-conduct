@@ -1,13 +1,13 @@
 # code of conduct
 
-* [our pledge](#our-pledge)
-* [our standards](#our-standards)
-* [our responsibilities](#our-responsibilities)
+* [pledge](#our-pledge)
+* [standards](#our-standards)
+* [responsibilities](#our-responsibilities)
 * [scope](#scope)
 * [enforcement](#enforcement)
 * [attribution](#attribution)
 
-## our pledge
+## pledge
 
 in the interest of fostering an open and welcoming environment, we as
 contributors and maintainers pledge to making participation in our project and
@@ -16,7 +16,7 @@ size, disability, ethnicity, sex characteristics, gender identity and expression
 level of experience, education, socio-economic status, nationality, personal
 appearance, race, religion, or sexual identity and orientation.
 
-## our standards
+## standards
 
 examples of behavior that contributes to creating a positive environment
 include:
@@ -38,7 +38,7 @@ examples of unacceptable behavior by participants include:
 * other conduct which could reasonably be considered inappropriate in a
   professional setting
 
-## our responsibilities
+## maintainers responsibilities
 
 project maintainers are responsible for clarifying the standards of acceptable
 behavior and are expected to take appropriate and fair corrective action in
@@ -49,6 +49,24 @@ reject comments, commits, code, wiki edits, issues, and other contributions
 that are not aligned to this code of conduct, or to ban temporarily or
 permanently any contributor for other behaviors that they deem inappropriate,
 threatening, offensive, or harmful.
+
+## core team responsibilities
+- answer questions on [github](https://github.com/tegcommerce)
+- answer questions on [telegram](https://t.me/tegcommerce)
+- create, correct, update, improve and improve the [code](https://github.com/tegcommerce/tegcommerce)
+- create, correct, update, improve and improve the [website](https://github.com/tegcommerce/tegcommerce-website)
+- create, correct, update, improve and improve the [documentation](https://github.com/tegcommerce)
+  - create, correct, update, improve and improve the [community](https://github.com/tegcommerce/tegcommerce-community)
+  - create, correct, update, improve and improve the [contributing](https://github.com/tegcommerce/tegcommerce-contributing)
+  - create, correct, update, improve and improve the [requirement](https://github.com/tegcommerce/tegcommerce-requirement)
+- create, correct, update, improve and improve the [demo](https://github.com/tegcommerce/tegcommerce-demo)
+- create, correct, update, improve and improve [themes](https://github.com/tegcommerce/tegcommerce-theme)
+- create, correct, update, improve and improve [plugins](https://github.com/tegcommerce/tegcommerce-plugin)
+- recruit and manage members to the [organization](https://github.com/orgs/tegcommerce/people)
+- create and manage [issues](https://github.com/tegcommerce/tegcommerce/issues)
+- manage and interact with the [community](https://github.com/tegcommerce/tegcommerce-community)
+    - [brazilian community [pt]](https://t.me/tegcommerce)
+    - [international community [en]](https://t.me/tegcommerce_en)
 
 ## scope
 
