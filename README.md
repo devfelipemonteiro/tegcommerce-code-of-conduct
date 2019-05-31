@@ -84,7 +84,7 @@ a project may be further defined and clarified by project maintainers.
 ## enforcement
 
 instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the project team at [insert email address]. all
+reported by contacting the project team at devfelipemonteiro@gmail.com. all
 complaints will be reviewed and investigated and will result in a response that
 is deemed necessary and appropriate to the circumstances. the project team is
 obligated to maintain confidentiality with regard to the reporter of an incident.
