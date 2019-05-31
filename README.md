@@ -1,8 +1,8 @@
 # code of conduct
 
-- [pledge](#our-pledge)
-- [standards](#our-standards)
-- [responsibilities](#our-responsibilities)
+- [pledge](#pledge)
+- [standards](#standards)
+- [responsibilities](#responsibilities)
   - [maintainers responsibilities](#maintainers-responsibilities)
   - [core team responsibilities](#core-team-responsibilities)
 - [scope](#scope)
