@@ -1,11 +1,13 @@
 # code of conduct
 
-* [pledge](#our-pledge)
-* [standards](#our-standards)
-* [responsibilities](#our-responsibilities)
-* [scope](#scope)
-* [enforcement](#enforcement)
-* [attribution](#attribution)
+- [pledge](#our-pledge)
+- [standards](#our-standards)
+- [responsibilities](#our-responsibilities)
+  - [maintainers responsibilities](#maintainers-responsibilities)
+  - [core team responsibilities](#core-team-responsibilities)
+- [scope](#scope)
+- [enforcement](#enforcement)
+- [attribution](#attribution)
 
 ## pledge
 
@@ -38,7 +40,9 @@ examples of unacceptable behavior by participants include:
 * other conduct which could reasonably be considered inappropriate in a
   professional setting
 
-## maintainers responsibilities
+## responsibilities
+
+### maintainers responsibilities
 
 project maintainers are responsible for clarifying the standards of acceptable
 behavior and are expected to take appropriate and fair corrective action in
@@ -50,7 +54,7 @@ that are not aligned to this code of conduct, or to ban temporarily or
 permanently any contributor for other behaviors that they deem inappropriate,
 threatening, offensive, or harmful.
 
-## core team responsibilities
+### core team responsibilities
 - answer questions on [github](https://github.com/tegcommerce)
 - answer questions on [telegram](https://t.me/tegcommerce)
 - create, correct, update, improve and improve the [code](https://github.com/tegcommerce/tegcommerce)
